@@ -1,0 +1,11 @@
+<suite name="BVT Test Suite" verbose="1" parallel="classes"
+	thread-count="1">
+	<parameter name="osType" value="android"/>	
+    <parameter name="appType" value="native"/>
+     <parameter name="mobileDeviceName" value="emulator-5554"/>
+	<test name="bvt" preserve-order="true">
+		<classes>
+			<class name ="com.applause.auto.test.TestSample"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56" started-at="2016-04-23T10:53:29Z" finished-at="2016-04-23T10:53:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56" started-at="2016-04-23T10:53:29Z" finished-at="2016-04-23T10:53:29Z">
+      <class name="com.applause.auto.tests.TestSample">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.applause.auto.tests.TestSample@6eebc39e]" name="testSetup" is-config="true" duration-ms="10" started-at="2016-04-23T11:53:29Z" finished-at="2016-04-23T11:53:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="testCorrectErrorMsgDisplayedWithMissingFirstName()[pri:0, instance:com.applause.auto.tests.TestSample@6eebc39e]" name="testCorrectErrorMsgDisplayedWithMissingFirstName" duration-ms="14" started-at="2016-04-23T11:53:29Z" finished-at="2016-04-23T11:53:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCorrectErrorMsgDisplayedWithMissingFirstName -->
+      </class> <!-- com.applause.auto.tests.TestSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
